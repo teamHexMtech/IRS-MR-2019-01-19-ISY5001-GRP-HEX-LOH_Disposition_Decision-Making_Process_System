@@ -23,7 +23,7 @@ Many companies place high emphasis on quality management and achieving ‘zero d
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Sudoku AI Solver](http://img.youtube.com/vi/-AiYLUjP6o8/0.jpg)](https://youtu.be/-AiYLUjP6o8 "Sudoku AI Solver")
+[![Sudoku AI Solver](http://img.youtube.com/vi/-AiYLUjP6o8/0.jpg)](https://drive.google.com/file/d/113qLKuirJ5QasAxKWlbQkYeTkwI3-3_o/view?usp=drivesdk "Sudoku AI Solver")
 
 ---
 ## SECTION 5 : USER GUIDE
