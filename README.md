@@ -17,8 +17,8 @@ Many companies place high emphasis on quality management and achieving ‘zero d
 | LIM LI WEI | A0087855L | Feasibility Study with JBPM and Software Testing, Recommending and Exploring Solutions for Development,  Helped with Drafting System Features and Conclusion in Report, Logo/Background design and integration.| e0319479@u.nus.edu |
 | PAMELA LIN YAN LING | A0196413A | Provided problem domain with real industrial application and provided real data; responsible for knowledge modelling (identification & specification) – designing activity flow chart, data attribute, inference diagram, rule table for each sub-goals| e0388053@u.nus.edu |
 | PREM S/O PIRAPALA CHANDRAN | A0195324A | Integrated different sections of report from group members to create flow in group report. Wrote executive summaryand aspects of conclusion. Proof read report. Designed front end skin banner for the interface design.| e0384955@u.nus.edu |
-| YE CHANGHE | A0150138N | Core developer of Jbpm and Java,model implement, workfolw  implement and combination, runable script combination and testing, end-to end testing and test case part in report.| e0015120@u.nus.edu |
-| ZHANG HAIHAN | A0150701X | Developer of Jbpm and Java ,model optimization, rule optimization and implement，end-to-end testing and test case，user guide, git file management and  solution part in report. | e0015787@u.nus.edu |
+| YE CHANGHE | A0150138N | Core developer of Jbpm and Java,model implement, workfolw implement and combination, runable script combination and testing, end-to end testing and test case part in report.| e0015120@u.nus.edu |
+| ZHANG HAIHAN | A0150701X | Developer of Jbpm and Java ,model optimization, rule optimization and implement，end-to-end testing and test case，user guide, git file management and helped solution part in report. | e0015787@u.nus.edu |
 
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
