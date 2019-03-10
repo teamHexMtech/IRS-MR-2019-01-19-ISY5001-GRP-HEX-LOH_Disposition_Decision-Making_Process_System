@@ -23,7 +23,7 @@ Many companies place high emphasis on quality management and achieving ‘zero d
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Sudoku AI Solver](http://img.youtube.com/vi/-AiYLUjP6o8/0.jpg)](https://drive.google.com/file/d/113qLKuirJ5QasAxKWlbQkYeTkwI3-3_o/view?usp=drivesdk "Sudoku AI Solver")
+[![Lot Disposition Recommendation System](http://img.youtube.com/vi/-AiYLUjP6o8/0.jpg)](https://drive.google.com/file/d/1BQ7-uaBDjVVMj56UR1zePZLqKA7ear4x/view "Lot Disposition Recommendation System")
 
 ---
 ## SECTION 5 : USER GUIDE
