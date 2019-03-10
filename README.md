@@ -16,8 +16,8 @@ Many companies place high emphasis on quality management and achieving ‘zero d
 | CH'NG WEI LUEN | A0195251E | Prepare and extract data for system development, interview respective domains & design the rule requirement for each sub-goals. Provided executable scripts and decision table to perform rule workflow; responsible for knowledge modelling (specification &refinement), drafted business process flow| e0384882@u.nus.edu |
 | LIM LI WEI | A0087855L | Feasibility Study with JBPM and Software Testing, Recommending and Exploring Solutions for Development,  Helped with Drafting System Features and Conclusion in Report, Logo/Background design and integration.| e0319479@u.nus.edu |
 | PAMELA LIN YAN LING | A0196413A | Provided problem domain with real industrial application and provided real data; responsible for knowledge modelling (identification & specification) – designing activity flow chart, data attribute, inference diagram, rule table for each sub-goals| e0388053@u.nus.edu |
-| PREM S/O PIRAPALA CHANDRAN | A0195324A | Integrated different sections of report from group members to create flow in group report. Wrote executive summaryand aspects of conclusion. Proof read report. Designed front end skin banner for the interface design.| e0384955@u.nus.edu |
-| YE CHANGHE | A0150138N | Core developer of Jbpm and Java,model implement, workfolw implement and combination, runable script combination and testing, end-to end testing and test case part in report.| e0015120@u.nus.edu |
+| PREM S/O PIRAPALA CHANDRAN | A0195324A | Integrated different sections of report from group members to create flow in group report. Wrote executive summary and aspects of conclusion. Proof read report. Designed front end skin banner for the interface design.| e0384955@u.nus.edu |
+| YE CHANGHE | A0150138N | Core developer of Jbpm and Java,model implement, workfolw implement and combination, Decision table enhancement, runable script combination and testing, end-to end testing and test case part in report, Git Repo management.| e0015120@u.nus.edu |
 | ZHANG HAIHAN | A0150701X | Developer of Jbpm and Java ,model optimization, rule optimization and implement，end-to-end testing and test case，user guide, git file management and helped solution part in report. | e0015787@u.nus.edu |
 
 ---
@@ -28,7 +28,7 @@ Many companies place high emphasis on quality management and achieving ‘zero d
 ---
 ## SECTION 5 : USER GUIDE
 
-`<Github File Link>` : <https://github.com/telescopeuser/Workshop-Project-Submission-Template/blob/master/UserGuide/User%20Guide%20HDB-BTO.pdf>
+`<Github File Link>` : <https://github.com/teamHexMtech/IRS-MR-2019-01-19-ISY5001-GRP-HEX-LOH_Disposition_Decision-Making_Process_System/blob/master/UserGuide/User%20Guide%20with%20Sample%20Case.pdf>
 
 ### [ 1 ] To run the system using iss-vm
 
@@ -47,14 +47,16 @@ Many companies place high emphasis on quality management and achieving ‘zero d
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`<Github File Link>` : <https://github.com/telescopeuser/Workshop-Project-Submission-Template/blob/master/ProjectReport/Project%20Report%20HDB-BTO.pdf>
+`<Github File Link>` : <https://github.com/teamHexMtech/IRS-MR-2019-01-19-ISY5001-GRP-HEX-LOH_Disposition_Decision-Making_Process_System/blob/master/ProjectReport/Lot%20Disposition%20Recommendation%20Report.pdf>
 
 ---
 ## SECTION 7 : MISCELLANEOUS
 
 ### HDB_BTO_SURVEY.xlsx
-* Results of survey
-* Insights derived, which were subsequently used in our system
+* commonality_test.R (Required by project)
+* lotList.csv (Required by project)
+* rawData.csv (Required by project)
+* Skin.zip
 
 ---
 
