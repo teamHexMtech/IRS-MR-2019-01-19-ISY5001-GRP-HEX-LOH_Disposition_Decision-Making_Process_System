@@ -23,7 +23,7 @@ Many companies place high emphasis on quality management and achieving ‘zero d
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Lot Disposition Recommendation System](https://i.imgur.com/blOos2I.jpg)](https://drive.google.com/file/d/1BQ7-uaBDjVVMj56UR1zePZLqKA7ear4x/view "Lot Disposition Recommendation System")
+[![Lot Disposition Recommendation System](https://i.imgur.com/Vhd4UG5.png)](https://drive.google.com/file/d/1BQ7-uaBDjVVMj56UR1zePZLqKA7ear4x/view "Lot Disposition Recommendation System")
 
 ---
 ## SECTION 5 : USER GUIDE
