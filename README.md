@@ -17,8 +17,9 @@ Many companies place high emphasis on quality management and achieving ‘zero d
 | LIM LI WEI | A0087855L | Feasibility Study with JBPM and Software Testing, Recommending and Exploring Solutions for Development,  Helped with Drafting System Features and Conclusion in Report.| e0319479@u.nus.edu |
 | PAMELA LIN YAN LING | A0196413A | Provided problem domain with real industrial application and provided real data; responsible for knowledge modelling (identification & specification) – designing activity flow chart, data attribute, inference diagram, rule table for each sub-goals| e0388053@u.nus.edu |
 | PREM S/O PIRAPALA CHANDRAN | A0195324A | Integrated different sections of report from group members to create flow in group report. Wrote executive summaryand aspects of conclusion. Proof read report. Designed front end skin banner for the interface design.| e0384955@u.nus.edu |
-| YE CHANGHE | A0150138N | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| e0015120@u.nus.edu |
-| ZHANG HAIHAN | A0150701X | Developer of Jbpm and Java ,rule optimization and implication，end-to-end testing and test case，user guide, git file management and  solution part in report. | e0015787@u.nus.edu |
+| YE CHANGHE | A0150138N | Core developer of Jbpm and Java,model implement, workfolw  implement and combination, runable script combination and testing, end-to end testing and test case part in report.| e0015120@u.nus.edu |
+| ZHANG HAIHAN | A0150701X | Developer of Jbpm and Java ,model optimization, rule optimization and implement，end-to-end testing and test case，user guide, git file management and  solution part in report. | e0015787@u.nus.edu |
+
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
@@ -40,28 +41,16 @@ More reference video presentations [here](https://telescopeuser.wordpress.com/20
 
 > open terminal in iss-vm
 
-> $ git clone https://github.com/telescopeuser/Workshop-Project-Submission-Template.git
+> $ git clone https://github.com/teamHexMtech/IRS-MR-2019-01-19-ISY5001-GRP-HEX-LOH_Disposition_Decision-Making_Process_System.git
 
+>run KIE server
 
-> **Go to URL using web browser** http://0.0.0.0:5000 or http://127.0.0.1:5000
-
+> **Go to URL using web browser** http://localhost:8080/console-jbpm
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
 `<Github File Link>` : <https://github.com/telescopeuser/Workshop-Project-Submission-Template/blob/master/ProjectReport/Project%20Report%20HDB-BTO.pdf>
-
-**Recommended Sections for Project Report / Paper:**
-- Executive Summary / Paper Abstract
-- Sponsor Company Introduction (if applicable)
-- Business Problem Background
-- Project Objectives & Success Measurements
-- Project Solution (To detail domain modelling & system design.)
-- Project Implementation (To detail system development & testing approach.)
-- Project Performance & Validation (To prove project objectives are met.)
-- Project Conclusions: Findings & Recommendation
-- List of Abbreviations (if applicable)
-- References (if applicable)
 
 ---
 ## SECTION 7 : MISCELLANEOUS
