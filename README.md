@@ -25,9 +25,6 @@ Many companies place high emphasis on quality management and achieving ‘zero d
 
 [![Sudoku AI Solver](http://img.youtube.com/vi/-AiYLUjP6o8/0.jpg)](https://youtu.be/-AiYLUjP6o8 "Sudoku AI Solver")
 
-Note: It is not mandatory for every project member to appear in video presentation; Presentation by one project member is acceptable. 
-More reference video presentations [here](https://drive.google.com/file/d/113qLKuirJ5QasAxKWlbQkYeTkwI3-3_o/view?usp=drivesdk "video presentations")
-
 ---
 ## SECTION 5 : USER GUIDE
 
